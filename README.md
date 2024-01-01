@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🔭 As an AI Engineer Intern at RadicalX, I’m currently working on applying AI models like LLMs to build an intelligent Interview prepration Assistant. I'm using Vertex AI from Google Cloud, LangChain, Python, Docker and GCP in my workflow.</h5>
+<p align="left">🔭 As an AI Engineer Intern at <b>RadicalX</b>, I’m currently working on applying AI models like LLMs to build an intelligent Interview prepration Assistant. I'm using Vertex AI from Google Cloud, LangChain, Python, Docker and GCP in my workflow.</p>
 
 ###
 
