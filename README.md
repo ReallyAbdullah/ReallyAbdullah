@@ -2,6 +2,10 @@
 
 ###
 
+<h5 align="left">🔭 As an AI Engineer Intern at RadicalX, I’m currently working on applying AI models like LLMs to build an intelligent Interview prepration Assistant. I'm using Vertex AI from Google Cloud, LangChain, Python, Docker and GCP in my workflow.</h5>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/mabdullah15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
