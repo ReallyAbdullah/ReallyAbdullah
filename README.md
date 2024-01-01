@@ -4,7 +4,15 @@
 
 <p align="left">🔭 As an AI Engineer Intern at <b>RadicalX</b>, I’m currently working on applying AI models like LLMs to build an intelligent Interview prepration Assistant. I'm using Vertex AI from Google Cloud, LangChain, Python, Docker and GCP in my workflow.</p>
 
+<p align="left">🌱 I’m currently learning about MLOps, Data Analytics, NLP, Generative AI and AI in Health care.</p>
+
+<p align="left">👯 I’m looking to collaborate on Machine Learning projects in new domains to challenge my skills and help me grow.</p>
+
+
+
 ###
+
+<h3 align="left">📫 How to reach me:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mabdullah15" target="_blank">
@@ -20,7 +28,7 @@
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">🧑‍💻 Programming Languages</h3>
 
 ###
 
@@ -46,7 +54,7 @@
 
 ###
 
-<h3 align="left">Machine Learning Frameworks</h3>
+<h3 align="left">🤖 Machine Learning Frameworks</h3>
 
 ###
 
@@ -72,7 +80,7 @@
 
 ###
 
-<h3 align="left">Web Development Frameworks</h3>
+<h3 align="left">💻 Web Development Frameworks</h3>
 
 ###
 
@@ -92,7 +100,7 @@
 
 ###
 
-<h3 align="left">Databases</h3>
+<h3 align="left">📊 Databases</h3>
 
 ###
 
@@ -108,7 +116,7 @@
 
 ###
 
-<h3 align="left">Deployment</h3>
+<h3 align="left">♻️ Deployment</h3>
 
 ###
 
@@ -131,18 +139,3 @@
 </div>
 
 ###
-
-<!--
-**ReallyAbdullah/ReallyAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
