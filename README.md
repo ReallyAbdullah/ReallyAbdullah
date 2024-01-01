@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Languages</p>
+<h3 align="left">Programming Languages</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">Machine Learning Frameworks</p>
+<h3 align="left">Machine Learning Frameworks</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">Web Development Frameworks</p>
+<h3 align="left">Web Development Frameworks</h3>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<p align="left">Databases</p>
+<h3 align="left">Databases</h3>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<p align="left">Deployment</p>
+<h3 align="left">Deployment</h3>
 
 ###
 
@@ -124,16 +124,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-</div>
-
-###
-
-<p align="left">Whenever I run into issues...</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.gifer.com/Fy4b.gif"  />
 </div>
 
 ###
