@@ -8,7 +8,7 @@
 
 <p align="left">👯 I’m looking to collaborate on Machine Learning projects in new domains to challenge my skills and help me grow.</p>
 
-<p align="left">📝 My Resume: </p> [Link](https://github.com/ReallyAbdullah/ReallyAbdullah/blob/main/Muhammad%20Abdullah%20AI%20Resume.pdf)
+📝 My Resume: [Link](https://github.com/ReallyAbdullah/ReallyAbdullah/blob/main/Muhammad%20Abdullah%20AI%20Resume.pdf)
 
 ###
 
