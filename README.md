@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 As an Generative AI and Automation Engineer at <b>Calab.ai</b>, I’m currently working on applying AI models like LLMs to build an Intelligent Document Agents. I'm using AzureOpenAI, LangChain, Python, Docker and Microsoft Azure in my workflow.</p>
+<p align="left">🔭 As a Generative AI and Automation Engineer at <b>Calab.ai</b>, I’m currently working on applying AI models like LLMs to build an Intelligent Document Agents. I'm using AzureOpenAI, LangChain, Python, Docker and Microsoft Azure in my workflow.</p>
 
 <p align="left">🌱 I’m currently learning about MLOps, Data Analytics, NLP, Generative AI and Agentic AI.</p>
 
