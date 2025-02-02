@@ -2,11 +2,9 @@
 
 ###
 
-<p align="left">🔭 As an AI Engineer Intern at <b>RadicalX</b>, I’m currently working on applying AI models like LLMs to build an intelligent Interview prepration Assistant. I'm using Vertex AI from Google Cloud, LangChain, Python, Docker and GCP in my workflow.</p>
+<p align="left">🔭 As an AI Engineer Intern at <b>RadicalX</b>, I’m currently working on applying AI models like LLMs to build an Intelligent Document Agents. I'm using AzureOpenAI, LangChain, Python, Docker and Microsoft Azure in my workflow.</p>
 
-- 🚀 Intersteller Intelligence: [Link to Code](https://github.com/ReallyAbdullah/interstellar_intel)
-
-<p align="left">🌱 I’m currently learning about MLOps, Data Analytics, NLP, Generative AI and AI in Health care.</p>
+<p align="left">🌱 I’m currently learning about MLOps, Data Analytics, NLP, Generative AI and Agentic AI.</p>
 
 <p align="left">👯 I’m looking to collaborate on Machine Learning projects in new domains to challenge my skills and help me grow.</p>
 
