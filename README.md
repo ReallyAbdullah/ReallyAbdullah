@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-📝 My Resume: <a href="https://github.com/ReallyAbdullah/ReallyAbdullah/blob/main/Muhammad-Abdullah-AI-Resume.pdf" target="_blank">Link</a>
+📝 My Resume: <a href="https://github.com/ReallyAbdullah/ReallyAbdullah/blob/main/Muhammad Abdullah AI Resume.pdf" target="_blank">Link</a>
 </p>
 
 ###
