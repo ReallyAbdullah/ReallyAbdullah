@@ -54,6 +54,45 @@
 
 ###
 
+<h3 align="left">🧠 AI / Generative AI Stack</h3>
+
+<div align="left">
+  <a href="https://langchain.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-webp/dark/langchain.webp" height="40" alt="LangChain logo" />
+  </a>
+  <img width="12" />
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-webp/dark/openai.webp" height="40" alt="OpenAI logo" />
+  </a>
+  <img width="12" />
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-webp/dark/huggingface.webp" height="40" alt="Hugging Face logo" />
+  </a>
+  <img width="12" />
+  <a href="https://ollama.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-webp/dark/ollama.webp" height="40" alt="Ollama logo" />
+  </a>
+  <img width="12" />
+  <a href="https://crewai.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-webp/dark/crewai.webp" height="40" alt="CrewAI logo" />
+  </a>
+  <img width="12" />
+  <a href="https://nomic.ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-webp/dark/nomic-ai.webp" height="40" alt="Nomic AI logo" />
+  </a>
+  <img width="12" />
+  <a href="https://cloud.google.com/vertex-ai" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-webp/dark/google-cloud.webp" height="40" alt="Vertex AI logo" />
+  </a>
+  <img width="12" />
+  <a href="https://azure.microsoft.com/en-us/services/cognitive-services/openai-service/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-webp/dark/azure.webp" height="40" alt="Azure OpenAI logo" />
+  </a>
+</div>
+
+
+###
+
 <h3 align="left">🤖 Machine Learning Frameworks</h3>
 
 ###
@@ -129,7 +168,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
